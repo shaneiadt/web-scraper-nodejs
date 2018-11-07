@@ -12,4 +12,6 @@ npm i
 
 # Usage
 
+```
 node index.js --url http://www.test.com/
+```
