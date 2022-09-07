@@ -19,7 +19,7 @@
   "homepage": "https://github.com/shaneiadt/web-scraper-nodejs#readme",
   "dependencies": {
     "chalk": "^2.4.1",
-    "cheerio": "^1.0.0-rc.2",
+    "cheerio": "^1.0.0-rc.12",
     "command-line-args": "^5.0.2",
     "request": "^2.88.0",
     "request-promise": "^4.2.2"
